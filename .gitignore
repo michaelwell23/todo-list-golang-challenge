@@ -1,0 +1,45 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+
+# Output of the Go compiler
+*.out
+
+# Configuration files
+*.env
+
+# Logs
+*.log
+
+# Go vendor directory
+vendor/
+
+# Go workspace file
+go.work
+go.work.sum
+
+# Dependency directories
+node_modules/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.iml
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# GitHub
+.github/
